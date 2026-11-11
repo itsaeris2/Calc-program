@@ -1,0 +1,15 @@
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\bin\Debug\net10.0\Simple-calculator.exe
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\bin\Debug\net10.0\Simple-calculator.deps.json
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\bin\Debug\net10.0\Simple-calculator.runtimeconfig.json
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\bin\Debug\net10.0\Simple-calculator.dll
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\bin\Debug\net10.0\Simple-calculator.pdb
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\obj\Debug\net10.0\Simple-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\obj\Debug\net10.0\Simple-calculator.AssemblyInfoInputs.cache
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\obj\Debug\net10.0\Simple-calculator.AssemblyInfo.cs
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\obj\Debug\net10.0\Simple-calculator.csproj.CoreCompileInputs.cache
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\obj\Debug\net10.0\Simple-calculator.dll
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\obj\Debug\net10.0\refint\Simple-calculator.dll
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\obj\Debug\net10.0\Simple-calculator.pdb
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\obj\Debug\net10.0\Simple-calculator.genruntimeconfig.cache
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\obj\Debug\net10.0\ref\Simple-calculator.dll
+C:\Users\MAHORAGA\source\repos\Simple-calculator\Simple-calculator\obj\Debug\net10.0\Simple-c.6511CED6.Up2Date
